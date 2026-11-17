@@ -1,0 +1,8 @@
+# Fichiers binaires : aucune conversion de fin de ligne
+*.pdf binary
+*.png binary
+
+# Sources : fins de ligne normalisees
+*.java  text
+*.md    text
+*.dia   text
